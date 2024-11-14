@@ -428,9 +428,9 @@ img {
         max-width: 1130px;
     }
     .footer_foto {
-        position: relative;
-        left: 225px;
-        bottom: 60px;
+        position: absolute;
+        left: 330px;
+        top: 9944px;
     }
     .footer_foto img{
         width: 100px;
