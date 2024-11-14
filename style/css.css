@@ -2,9 +2,6 @@ body{
     margin: auto;
     background-color: #F1F1F1;
 }
-*{
-    box-sizing: border-box;
-}
 .header{
     margin: 0;
     height: 824px;
